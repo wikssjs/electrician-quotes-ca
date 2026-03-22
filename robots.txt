@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: https://renoquotes.com/en/form/service/electrician?utm_campaign=jb
+Disallow: /get-electrician-quote/
 
 Sitemap: https://electrician-quotes.ca/sitemap-index.xml
